@@ -1,0 +1,39 @@
+@* This prints out all the info *@
+
+@model Books
+
+<style>
+    #entry:hover {
+        /* background-color: #000; */
+        /*  Making button bigger on hover  */
+        transform: scale(1.09) perspective(1px)
+    }
+</style>
+
+<div id="entry">
+    <div class="card card-outline-primary m-1 p-1">
+        <div class="bg-faded p-1">
+            <h4>
+                @Model.Title
+                <span class="badge badge-pill badge-primary" style="float:right">
+                    <small>$@Model.Price.ToString()</small>
+                </span>
+            </h4>
+            <div class="card-text p-1">
+                <div>Author: @Model.Author</div>
+                <div>Publisher: @Model.Publisher</div>
+                <div>ISBN: @Model.Isbn</div>
+                <div>Classification: @Model.Classification</div>
+                <div>Category: @Model.Category</div>
+                <div>Page Count: @Model.PageCount</div>
+            </div>
+            <form method="post" asp-page="/Shop">
+                <input type="hidden" asp-for="@Model.Title" />
+                <input type="hidden" name="returnUrl" value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+                <span class="card-text">
+                    <button type="submit" class="btn btn-success btn-sm float-right">Purchase</button>
+                </span>
+            </form>
+        </div>
+    </div>
+</div>

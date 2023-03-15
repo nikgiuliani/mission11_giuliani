@@ -1,0 +1,13 @@
+@{
+}
+
+@model IEnumerable<string>
+
+<div>
+    <a asp-controller="Home" asp-action="Index" asp-route-category="" asp-route-pageNum="1" class="btn btn-block btn-secondary">Home</a>
+
+    @foreach (string c in Model)
+    {   
+        <a id="animate" asp-controller="Home" asp-action="Index" asp-route-category="@c" asp-route-pageNum="1" class="btn @(ViewBag.CurrCategory == c ? "btn-primary" : "btn-outline-secondary") btn-block">@c</a>
+    }
+</div>

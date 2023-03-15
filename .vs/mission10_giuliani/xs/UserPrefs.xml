@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E4D57B16-EF77-47A0-8E42-968E8E175FD8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mission11_giuliani/Components/TypesViewComponent">
+    <Files>
+      <File FileName="mission11_giuliani/Components/TypesViewComponent" Line="16" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mission11_giuliani" expanded="True">
+            <Node name="mission11_giuliani" expanded="True">
+              <Node name="Components" expanded="True">
+                <Node name="TypesViewComponent" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.mission11_giuliani FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

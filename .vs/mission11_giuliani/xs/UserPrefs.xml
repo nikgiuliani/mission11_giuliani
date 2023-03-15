@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{E4D57B16-EF77-47A0-8E42-968E8E175FD8}|Default">
+  <MonoDevelop.Ide.ItemProperties.mission11__giuliani PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="mission11_giuliani/Views/Shared/Components/CartSummary/Default.cshtml">
+    <Files>
+      <File FileName="mission11_giuliani/Pages/Shop.cshtml.cs" Line="21" Column="24" />
+      <File FileName="mission11_giuliani/Pages/Shop.cshtml" />
+      <File FileName="mission11_giuliani/Models/Basket.cs" Line="1" Column="1" />
+      <File FileName="mission11_giuliani/Views/Shared/_Layout.cshtml" Line="19" Column="19" />
+      <File FileName="mission11_giuliani/Views/Shared/Components/CartSummary/Default.cshtml" Line="11" Column="14" />
+      <File FileName="mission11_giuliani/Components/CartSummaryViewComponent.cs" Line="21" Column="29" />
+      <File FileName="mission11_giuliani/Views/Shared/Components/Types/Default.cshtml" Line="1" Column="1" />
+      <File FileName="mission11_giuliani/Components/TypesViewComponent.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mission11_giuliani" expanded="True">
+            <Node name="mission11_giuliani" expanded="True">
+              <Node name="Components" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="CartSummary" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
