@@ -1905,7 +1905,7 @@
       "outputPath": "/Users/nikgiuliani/projects/is-core-projects/is-413/mission-11/mission11_giuliani/mission11_giuliani/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nikgiuliani/.config/NuGet/NuGet.Config"
+        "/Users/nikgiuliani/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

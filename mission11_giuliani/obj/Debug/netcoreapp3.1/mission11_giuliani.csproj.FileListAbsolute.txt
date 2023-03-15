@@ -81,3 +81,4 @@
 /Users/nikgiuliani/projects/is-core-projects/is-413/mission-11/mission11_giuliani/mission11_giuliani/obj/Debug/netcoreapp3.1/mission11_giuliani.genruntimeconfig.cache
 /Users/nikgiuliani/projects/is-core-projects/is-413/mission-11/mission11_giuliani/mission11_giuliani/obj/Debug/netcoreapp3.1/mission11_giuliani.csproj.AssemblyReference.cache
 /Users/nikgiuliani/projects/is-core-projects/is-413/mission-11/mission11_giuliani/mission11_giuliani/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/CartSummary/Default.cshtml.g.cs
+/Users/nikgiuliani/projects/is-core-projects/is-413/mission-11/mission11_giuliani/mission11_giuliani/bin/Debug/netcoreapp3.1/mission11_giuliani

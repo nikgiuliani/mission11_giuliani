@@ -9,6 +9,7 @@ namespace mission11_giuliani.Controllers
 {
     public class ShoppingCartController : Controller
     {
+        // Shopping cart functionality
         private IShoppingCartRepository repo { get; set; }
         private Basket basket { get; set; }
 
